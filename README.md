@@ -39,6 +39,7 @@ Language | Code
 ---------|------
 English (US) | en-US 
 English (UK) | en-GB 
+Tamil (IN) | ta-IN
 French | fr-FR 
 German | de-DE 
 Spanish | es-ES 
